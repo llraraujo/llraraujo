@@ -1,14 +1,20 @@
-Olá! Seja bem-vindo ao meu perfil :) 
+Welcome to my Profile :technologist:
 
-Meu nome é Lucas! Gosto muito de tecnologia e procuro sempre pesquisar coisas da área. Gosto de
-aprender e entender como as coisas funcionam. Tive o primeiro contato com programação durante minha 
-graduação em Engenharia Elétrica pela UFPI. Atualmente, dedico-me diarimente para aprender sobre
-desenvolvimento web para me tornar um desenvolvedor fullstack. As tecnologias que estou estudando/aperfeçoando são:
+I really like technology and I always try to research things in the area. I like
+learn and understand how things work. I had the first contact with programming during my
+degree in Electrical Engineering at UFPI. Currently, I dedicate myself daily to learn about
+web development to become a fullstack developer. The technologies I am studying / perfecting are:
 
-1. HTML 5
-2. CSS 3
-3. Javascript
-4. Typescript
-5. NodeJS
-6. MySQL 
+<ul>   
+  <li> HTML 5 </li>
+  <li> CSS 3 </li>
+  <li> JavaScript</li>
+  <li> TypeScript </li>
+  <li> NodeJS </li>
+  <li> SQL </li>
+</ul>
 
+
+
+
+Today, I'm fulltime focusing on learning this tecnologies. :dart:
