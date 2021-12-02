@@ -1,6 +1,6 @@
 <h1> Welcome to my Profile :technologist: </h1>
 
-I really like technology and I always try to research things in the area. I like
+I really like technology and I always try to research things in the area. I like to
 learn and understand how things work. I had the first contact with programming during my
 degree in Electrical Engineering at UFPI. 
 Currently, I dedicate myself daily to learn about
