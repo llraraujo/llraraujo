@@ -10,8 +10,10 @@ web development to become a fullstack developer. The technologies I am studying 
   <li> HTML 5 </li>
   <li> CSS 3 </li>
   <li> JavaScript</li>
-  <li> TypeScript </li>
   <li> NodeJS </li>
+  <li> VueJs </li>
+  <li> ReactJS </li>
+  <li> TailwindCSS </li>
   <li> MySQL </li>
 </ul>
 
