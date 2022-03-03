@@ -19,4 +19,4 @@ web development to become a fullstack developer. The technologies I am studying 
 
 
 Today, I'm fulltime focusing on learning this tecnologies. :dart: 
-I'm also open to work as Junior Developer or to make some internship in web development.
+
