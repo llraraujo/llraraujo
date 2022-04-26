@@ -9,3 +9,11 @@ My goal is to become a back-end developer. The technologies I am studying / perf
  <li>:dart: NodeJS</li>
 </ul>
 
+<hr>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luk4ss&show_icons=true&theme=dracula)      
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&layout=compact&theme=dracula&)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
