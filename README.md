@@ -7,8 +7,7 @@ My goal is to become a <strong>back-end developer</strong>.
 <h2>Stats</h2>
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luk4ss&show_icons=true&theme=dracula) 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luk4ss&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
     <p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luk4ss&theme=dracula)](https://git.io/streak-stats) </p>
 
 
