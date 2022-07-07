@@ -8,7 +8,7 @@ My goal is to become a <strong>back-end developer</strong>.
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Luk4ss&show_icons=true&theme=radical&line_height=27" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&hide=html,css,java,c&theme=radical&langs_count=3" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&hide=html,css,c&theme=radical&langs_count=3" />
 </p>
 
 <p align = "center">
