@@ -6,11 +6,14 @@ My goal is to become a <strong>back-end developer</strong>.
 
 <h2>Stats</h2>
 
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Luk4ss&show_icons=true&theme=radical&line_height=27" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&hide=html,css,java,c&theme=radical&langs_count=3" />
+</p>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luk4ss&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-    <p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luk4ss&theme=dracula)](https://git.io/streak-stats) </p>
-
-
+<p align = "center">
+ <img src= "https://github-readme-streak-stats.herokuapp.com/?user=Luk4ss&theme=radical" />
+</p>
 
 
 <h2 align="left">Languages and Tools:</h2>
