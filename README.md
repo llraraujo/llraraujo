@@ -11,10 +11,6 @@ My goal is to become a <strong>back-end developer</strong>.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Luk4ss&hide=html,css,c&theme=radical&langs_count=3" />
 </p>
 
-<p align = "center">
- <img src= "https://github-readme-streak-stats.herokuapp.com/?user=Luk4ss&theme=radical" />
-</p>
-
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
