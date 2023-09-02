@@ -1,7 +1,10 @@
 <h1> Welcome to my Profile :technologist: </h1>
 
-I really like technology and I always try to research things of this area. I like to learn and understand how things work. I had the first contact with programming during my degree in Electrical Engineering.
-My goal is to become a <strong>back-end developer</strong>.
+Good evening! I'm passionate about .NET development and thrive on challenges that drive my growth. With a determined mindset, I'm constantly seeking opportunities to enhance my skills and technical knowledge. My journey in the programming world is guided by curiosity and the drive to find innovative solutions to complex problems. I believe that each line of code is a chance for learning and refinement.
+
+Over the years, I've had the privilege of tackling a variety of challenges in software development, allowing me to cultivate a resilient approach to overcoming obstacles. I'm always excited to dive into challenging projects, as I believe they're the ones that help us grow professionally and personally.
+
+If you're in search of a dedicated .NET developer, ready to embrace challenges and contribute significantly to innovative projects, I'd be delighted to connect and collaborate. Let's build amazing solutions together!
  
 
 <h2>Stats</h2>
