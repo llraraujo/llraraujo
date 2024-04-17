@@ -11,7 +11,7 @@ If you're in search of a dedicated .NET developer, ready to embrace challenges a
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=llraraujo&show_icons=true&theme=radical&line_height=27" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=llraraujo&hide=html,css,c&theme=radical&langs_count=3" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=llraraujo&hide=html,css,c,scss,python&theme=radical&langs_count=3" />
 </p>
 
 
